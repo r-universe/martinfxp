@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bnem"]
+	path = bnem
+	url = https://github.com/martinfxp/bnem
+	shallow = true
+	registered = true
